@@ -1,8 +1,8 @@
 ===========
-sll.locales
+slt.locales
 ===========
 
-sll.locales overrides default translations of Plone for SLT site.
+slt.locales overrides default translations of Plone for SLT site.
 
 Change log
 ----------

@@ -3,7 +3,7 @@ from setuptools import setup
 
 
 setup(
-    name='sll.locales',
+    name='slt.locales',
     version='0.0',
     description="Overrides default translations of Plone for SLT site.",
     long_description=open("README.rst").read(),
@@ -18,7 +18,7 @@ setup(
     url='https://github.com/taito/slt.locales',
     license='None-free',
     packages=find_packages(exclude=['ez_setup']),
-    namespace_packages=['sll'],
+    namespace_packages=['slt'],
     include_package_data=True,
     zip_safe=False,
     install_requires=[

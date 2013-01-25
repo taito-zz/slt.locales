@@ -22,8 +22,14 @@ msgstr ""
 msgid "description_no_account"
 msgstr "Kirjaudu sisään jotta voit tehdä ostoksia verkkokaupasta. Mikäli et ole vielä rekisteröitynyt, voit tehdä sen rekisteröintisivulla >> ${registration_form}."
 
+#. Default: "Info"
+#: Archetypes/skins/archetypes/edit_macros.pt:36
+#: CMFPlone/skins/plone_content/link_view.pt:15
+#: CMFPlone/skins/plone_forms/discussion_reply_form.cpt:87
+msgid "Info"
+msgstr "Info"
+
 #. Default: "You will receive an e-mail shortly containing a URL that will allow you to set your password. When you receive this e-mail, please follow the link to complete your registration process. NOTE: The password reset URL will expire on ${time}. If your password reset request expires, you may use the \"Forgot your password\" link to generate another password reset request."
 #: CMFPlone/skins/plone_login/registered.pt:38
 msgid "description_password_reset_or_registered"
 msgstr "Antamaasi sähköpostiosoitteeseen on lähetetty linkki, jota klikkaamalla pääset vahvistamaan rekisteröitymisesi, voit asettaa salasanasi ja viimeistellä rekisteröitymisen. HUOMAA: Tämä salasanan asetusosoite vanhenee ${time}. Jos osoite ehtii vanheta, voit käyttää \"Unohdin salasanani\" -toimintoa saadaksesi uuden sähköpostin."
-

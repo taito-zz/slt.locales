@@ -15,6 +15,11 @@ msgstr ""
 "Preferred-Encodings: latin9 utf-8\n"
 "Domain: plone\n"
 
+#. Default: "Home"
+#: CMFPlone/profiles/default/actions.xml
+msgid "Home"
+msgstr "Luontokauppa"
+
 #. Default: "If you do not have an account here, head over to the ${registration_form}."
 #: CMFPlone/skins/plone_login/failsafe_login_form.cpt:34
 #: CMFPlone/skins/plone_login/login_form.cpt:300

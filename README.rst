@@ -7,6 +7,11 @@ slt.locales overrides default translations of Plone for SLT site.
 Change log
 ----------
 
+0.3 (2013-04-xx)
+================
+
+- Added translation for Home. [taito]
+
 0.2 (2013-01-25)
 ================
 

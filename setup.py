@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='slt.locales',
-    version='0.3.1',
+    version='0.4',
     description="Overrides default translations for SLT site.",
     long_description=open("README.rst").read(),
     classifiers=[

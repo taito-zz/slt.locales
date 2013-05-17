@@ -7,7 +7,7 @@ slt.locales overrides default translations for SLT site.
 Change log
 ----------
 
-0.4 (2013-05-xx)
+0.4 (2013-05-17)
 ================
 
 - Added dependency to sll.baselocales. [taito]
